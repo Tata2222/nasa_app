@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tata2222/nasa_app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Tata2222/nasa_app/static/js/main.7d858fe4.chunk.js",
+    "main.js.map": "/Tata2222/nasa_app/static/js/main.7d858fe4.chunk.js.map",
+    "runtime-main.js": "/Tata2222/nasa_app/static/js/runtime-main.1b3b6465.js",
+    "runtime-main.js.map": "/Tata2222/nasa_app/static/js/runtime-main.1b3b6465.js.map",
+    "static/js/2.9e1066ef.chunk.js": "/Tata2222/nasa_app/static/js/2.9e1066ef.chunk.js",
+    "static/js/2.9e1066ef.chunk.js.map": "/Tata2222/nasa_app/static/js/2.9e1066ef.chunk.js.map",
+    "index.html": "/Tata2222/nasa_app/index.html",
+    "precache-manifest.66b7f56b0b71c2c92ba518b78296e291.js": "/Tata2222/nasa_app/precache-manifest.66b7f56b0b71c2c92ba518b78296e291.js",
+    "service-worker.js": "/Tata2222/nasa_app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Tata2222/nasa_app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e1066ef.chunk.js.LICENSE.txt": "/Tata2222/nasa_app/static/js/2.9e1066ef.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Tata2222/nasa_app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b3b6465.js",
+    "static/js/2.9e1066ef.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7d858fe4.chunk.js"
+  ]
+}
