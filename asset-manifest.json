@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/tata2222/nasa_app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/tata2222/nasa_app/static/js/main.7bdb7ec4.chunk.js",
-    "main.js.map": "/tata2222/nasa_app/static/js/main.7bdb7ec4.chunk.js.map",
-    "runtime-main.js": "/tata2222/nasa_app/static/js/runtime-main.d50d31c9.js",
-    "runtime-main.js.map": "/tata2222/nasa_app/static/js/runtime-main.d50d31c9.js.map",
-    "static/js/2.9e1066ef.chunk.js": "/tata2222/nasa_app/static/js/2.9e1066ef.chunk.js",
-    "static/js/2.9e1066ef.chunk.js.map": "/tata2222/nasa_app/static/js/2.9e1066ef.chunk.js.map",
-    "index.html": "/tata2222/nasa_app/index.html",
-    "precache-manifest.9828cfadca0f5f149c93f7c55963585e.js": "/tata2222/nasa_app/precache-manifest.9828cfadca0f5f149c93f7c55963585e.js",
-    "service-worker.js": "/tata2222/nasa_app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/tata2222/nasa_app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9e1066ef.chunk.js.LICENSE.txt": "/tata2222/nasa_app/static/js/2.9e1066ef.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/tata2222/nasa_app/static/media/logo.5d5d9eef.svg"
+    "main.css": "./static/css/main.5f361e03.chunk.css",
+    "main.js": "./static/js/main.362a77f5.chunk.js",
+    "main.js.map": "./static/js/main.362a77f5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e0f42e12.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e0f42e12.js.map",
+    "static/js/2.9e1066ef.chunk.js": "./static/js/2.9e1066ef.chunk.js",
+    "static/js/2.9e1066ef.chunk.js.map": "./static/js/2.9e1066ef.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4f754d29fb41da5455ac4197127b6e1a.js": "./precache-manifest.4f754d29fb41da5455ac4197127b6e1a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "./static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e1066ef.chunk.js.LICENSE.txt": "./static/js/2.9e1066ef.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d50d31c9.js",
+    "static/js/runtime-main.e0f42e12.js",
     "static/js/2.9e1066ef.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7bdb7ec4.chunk.js"
+    "static/js/main.362a77f5.chunk.js"
   ]
 }
