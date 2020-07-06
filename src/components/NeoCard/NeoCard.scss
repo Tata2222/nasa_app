@@ -1,0 +1,67 @@
+.neocard {
+  color: #fff;
+  font-size: 1em;
+  display: flex;
+  padding: 0 10px;
+
+  &__container {
+    display: grid;
+    position: relative;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 4px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+    padding: 10px 15px;
+    min-width: 40vw;
+
+    @media only screen and (max-width: 600px) {
+      grid-template-columns: 1fr;
+      min-width: 80vw;
+    }
+  }
+
+  &__container.dangerous {
+    background-color: rgba(178, 24, 44, 0.3);
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    padding-right: 15px;
+
+    @media only screen and (max-width: 600px) {
+      border-bottom: solid 1px #fff;
+    }
+
+    @media only screen and (max-width: 400px) {
+      align-items: center;
+    }
+  }
+
+  &__date {
+    font-size: 1em;
+  }
+
+  &__neo-count {
+    font-size: 1.2em;
+  }
+
+  &__parameters {
+    display: flex;
+    flex-direction: column;
+
+    &-item {
+      display: flex;
+      justify-content: space-between;
+
+      @media only screen and (max-width: 400px) {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 5px;
+      }
+    }
+  }
+}

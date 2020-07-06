@@ -1,0 +1,69 @@
+body {
+  font-family: -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Roboto",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__title {
+    font-size: 4em;
+    color: #fff;
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+    margin-bottom: 80px;
+  }
+}
+
+html,
+body,
+div,
+span,
+h1,
+h2,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+li,
+ul {
+  list-style: none;
+}
+
+body::after {
+  content: "";
+  background: url(rings.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.87;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: fixed;
+  z-index: -1;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1240px;
+}
+
+.error {
+  margin-top: 20px;
+  color: rgb(178, 24, 44);
+}
