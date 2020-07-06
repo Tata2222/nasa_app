@@ -5,7 +5,7 @@ const API_URL = `http://api.nasa.gov/neo/rest/v1/feed?start_date=${fistDayOfMont
 
 export function fetchAsteroids(url= API_URL) {
   const correctUrl = url.replace('http', 'https');
-  console.log(correctUrl)
+
   return fetch(correctUrl)
     .then(response => {
       return response.json();
